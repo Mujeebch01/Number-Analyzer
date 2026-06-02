@@ -1,6 +1,6 @@
 Number Analyzer (C++)
 
-This is a simple C++ program that takes 10 numbers from the user and performs basic analysis on them.
+A beginner-friendly C++ console application that accepts 10 integer inputs from the user and performs basic statistical analysis, including calculation of sum, average, maximum, and minimum values using modular functions and arrays.
 
 📌 Features
 The program calculates:
