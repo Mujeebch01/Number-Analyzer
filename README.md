@@ -31,6 +31,10 @@ Small() → Finds smallest number
 3. Run it and enter 10 numbers
 
 👨‍💻 Author
-by Mujeeb Ch
 
+Mujeeb
+
+GitHub: @Mujeebch01
+
+📌 Note
 Simple C++ beginner project for practice
